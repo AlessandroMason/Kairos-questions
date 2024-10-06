@@ -1,0 +1,25 @@
+/*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
+
+//! ######################
+
+//! ###################### FIREBASE
+
+//! check every 2 second if slide changes, if question mark send it to frirebase
+
+//! function that actually sends to firebase
+
+//! getting the index of the current slide (very important)
+
+//! here creates the new question
+
+//! here creates the response for Multiple Choiche
+
+//! here creates the response for Word Cloud
+
+//! here updating the graphs
+
+//! initialization of office. must be the first thing in the document no matter what
+
+//! read the textfields in the document
+
+//! update the graphs in the next slide
